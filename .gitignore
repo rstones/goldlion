@@ -6,3 +6,6 @@ media/
 
 # or virtual environment
 venv/
+
+# or sqlite db
+goldlion.db
