@@ -2,7 +2,7 @@
 config.py
 
 # or images etc
-/media
+media/
 
 # or virtual environment
-/venv
+venv/
