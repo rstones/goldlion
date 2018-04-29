@@ -1,0 +1,5 @@
+# don't commit database passwords
+config.py
+
+# or images etc
+/media
