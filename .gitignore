@@ -3,3 +3,6 @@ config.py
 
 # or images etc
 /media
+
+# or virtual environment
+/venv
